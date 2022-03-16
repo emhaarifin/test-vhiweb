@@ -1,0 +1,156 @@
+$white: #ffffff;
+$black: #000000;
+$blue100: #bfd8fc;
+$blue200: #98d5fd;
+$blue300: #64b8fb;
+$blue400: #3d9cf7;
+$blue500: #0070f3;
+$blue600: #0056d0;
+$blue700: #0040ae;
+$blue800: #002d8c;
+$blue900: #002074;
+$purple100: #dbc8f0;
+$purple200: #dda9f9;
+$purple300: #c17cef;
+$purple400: #a258df;
+$purple500: #7928ca;
+$purple600: #5e1dad;
+$purple700: #461491;
+$purple800: #310c75;
+$purple900: #220760;
+$green100: #c5f0d5;
+$green200: #a1f9ac;
+$green300: #6fee8d;
+$green400: #4ade7b;
+$green500: #17c964;
+$green600: #10ac63;
+$green700: #0b905f;
+$green800: #077457;
+$green900: #046050;
+$yellow100: #fce6c7;
+$yellow200: #fee7a6;
+$yellow300: #fcd57a;
+$yellow400: #f9c258;
+$yellow500: #f5a623;
+$yellow600: #d28519;
+$yellow700: #b06811;
+$yellow800: #8e4d0b;
+$yellow900: #753a06;
+$red100: #fbc4d5;
+$red200: #fda0a5;
+$red300: #fb7085;
+$red400: #f74c77;
+$red500: #f21361;
+$red600: #d00d65;
+$red700: #ae0963;
+$red800: #8c065c;
+$red900: #740357;
+$cyan100: #eefff4;
+$cyan200: #ddffed;
+$cyan300: #ccffe9;
+$cyan400: #bfffea;
+$cyan500: #aaffec;
+$cyan600: #7cdbcf;
+$cyan700: #55b7b4;
+$cyan800: #368d93;
+$cyan900: #206c7a;
+$pink100: #ffdbe7;
+$pink200: #ffb8d6;
+$pink300: #ff94cc;
+$pink400: #ff7acc;
+$pink500: #ff4ecd;
+$pink600: #db39bd;
+$pink700: #b727aa;
+$pink800: #921893;
+$pink900: #6e0e7a;
+$gray100: #f4f4f4;
+$gray200: #eaeaea;
+$gray300: #c1c1c1;
+$gray400: #999999;
+$gray500: #888888;
+$gray600: #666666;
+$gray700: #444444;
+$gray800: #333333;
+$gray900: #111111;
+
+$color-list: (
+  'white': $white,
+  'black': $black,
+  'blue100': $blue100,
+  'blue200': $blue200,
+  'blue300': $blue300,
+  'blue400': $blue400,
+  'blue500': $blue500,
+  'blue600': $blue600,
+  'blue700': $blue700,
+  'blue800': $blue800,
+  'blue900': $blue900,
+  'purple100': $purple100,
+  'purple200': $purple200,
+  'purple300': $purple300,
+  'purple400': $purple400,
+  'purple500': $purple500,
+  'purple600': $purple600,
+  'purple700': $purple700,
+  'purple800': $purple800,
+  'purple900': $purple900,
+  'green100': $green100,
+  'green200': $green200,
+  'green300': $green300,
+  'green400': $green400,
+  'green500': $green500,
+  'green600': $green600,
+  'green700': $green700,
+  'green800': $green800,
+  'green900': $green900,
+  'yellow100': $yellow100,
+  'yellow200': $yellow200,
+  'yellow300': $yellow300,
+  'yellow400': $yellow400,
+  'yellow500': $yellow500,
+  'yellow600': $yellow600,
+  'yellow700': $yellow700,
+  'yellow800': $yellow800,
+  'yellow900': $yellow900,
+  'red100': $red100,
+  'red200': $red200,
+  'red300': $red300,
+  'red400': $red400,
+  'red500': $red500,
+  'red600': $red600,
+  'red700': $red700,
+  'red800': $red800,
+  'red900': $red900,
+  'cyan100': $cyan100,
+  'cyan200': $cyan200,
+  'cyan300': $cyan300,
+  'cyan400': $cyan400,
+  'cyan500': $cyan500,
+  'cyan600': $cyan600,
+  'cyan700': $cyan700,
+  'cyan800': $cyan800,
+  'cyan900': $cyan900,
+  'pink100': $pink100,
+  'pink200': $pink200,
+  'pink300': $pink300,
+  'pink400': $pink400,
+  'pink500': $pink500,
+  'pink600': $pink600,
+  'pink700': $pink700,
+  'pink800': $pink800,
+  'pink900': $pink900,
+  'gray100': $gray100,
+  'gray200': $gray200,
+  'gray300': $gray300,
+  'gray400': $gray400,
+  'gray500': $gray500,
+  'gray600': $gray600,
+  'gray700': $gray700,
+  'gray800': $gray800,
+  'gray900': $gray900,
+);
+
+$media-sm: 576px;
+$media-md: 768px;
+$media-lg: 992px;
+$media-xl: 1200px;
