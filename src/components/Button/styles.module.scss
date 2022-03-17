@@ -1,0 +1,11 @@
+@import '../../assets/scss/abstracts/_variables.scss';
+button {
+  &.button {
+    outline: none;
+    border: none;
+  }
+  &.button:disabled {
+    background: $gray500;
+    cursor: not-allowed;
+  }
+}
