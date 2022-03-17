@@ -1,0 +1,18 @@
+@import '../../assets/scss/abstracts/_variables.scss';
+.wrapper {
+  aspect-ratio: 1;
+  min-width: 128px;
+  & .avatar {
+    border-radius: 4px;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 1;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+
+    background: $gray200;
+  }
+}
