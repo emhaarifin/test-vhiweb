@@ -21,6 +21,11 @@ body,
   -moz-osx-font-smoothing: grayscale;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 a {
   text-decoration: none;
 }
@@ -34,6 +39,7 @@ a {
 /* The loading Class */
 .skeleton {
   position: relative;
+  overflow: hidden;
   background-color: #e2e2e2;
 }
 
